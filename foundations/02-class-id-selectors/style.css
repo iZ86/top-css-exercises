@@ -1,0 +1,22 @@
+.odd-numbered-element {
+	background-color: #ffa7a7;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+	font-size: 24px;
+}
+
+#second-element {
+	color: #0000ff;
+	font-size: 36px;
+}
+
+#fourth-element {
+	background-color: #00ff00;
+	font-weight: bold;
+}
+
+/* I did third element and fourth element having font-size: 24px, but u can do this instead to save repetitive code. */
+
+
